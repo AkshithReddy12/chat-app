@@ -10,11 +10,9 @@ To set up the project locally, follow these steps:
 5. *go back and go to frontend: cd frontend/frontend
    
 6. *Install dependencies in same directory*:
-   bash
    npm install
    
 6. *run this command*:
-   bash
    npm run dev
    
 7. *open browser and enter https:://localhost:5173/*
